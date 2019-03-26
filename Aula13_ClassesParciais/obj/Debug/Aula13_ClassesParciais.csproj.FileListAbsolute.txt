@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula13_ClassesParciais\bin\Debug\Aula13_ClassesParciais.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula13_ClassesParciais\bin\Debug\Aula13_ClassesParciais.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula13_ClassesParciais\bin\Debug\Aula13_ClassesParciais.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula13_ClassesParciais\obj\Debug\Aula13_ClassesParciais.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula13_ClassesParciais\obj\Debug\Aula13_ClassesParciais.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula13_ClassesParciais\obj\Debug\Aula13_ClassesParciais.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula13_ClassesParciais\obj\Debug\Aula13_ClassesParciais.csprojAssemblyReference.cache

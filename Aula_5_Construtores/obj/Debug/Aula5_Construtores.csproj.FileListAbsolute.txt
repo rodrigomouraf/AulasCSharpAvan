@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula_5_Construtores\bin\Debug\Aula_5_Construtores.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula_5_Construtores\bin\Debug\Aula_5_Construtores.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula_5_Construtores\bin\Debug\Aula_5_Construtores.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula_5_Construtores\obj\Debug\Aula5_Construtores.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula_5_Construtores\obj\Debug\Aula5_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula_5_Construtores\obj\Debug\Aula_5_Construtores.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula_5_Construtores\obj\Debug\Aula_5_Construtores.pdb

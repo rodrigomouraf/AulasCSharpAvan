@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula10_InferenceTypes\bin\Debug\Aula10_InferenceTypes.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula10_InferenceTypes\bin\Debug\Aula10_InferenceTypes.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula10_InferenceTypes\bin\Debug\Aula10_InferenceTypes.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula10_InferenceTypes\obj\Debug\Aula10_InferenceTypes.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula10_InferenceTypes\obj\Debug\Aula10_InferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula10_InferenceTypes\obj\Debug\Aula10_InferenceTypes.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula10_InferenceTypes\obj\Debug\Aula10_InferenceTypes.pdb

@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\ValueRef\bin\Debug\ValueRef.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\ValueRef\bin\Debug\ValueRef.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\ValueRef\bin\Debug\ValueRef.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\ValueRef\obj\Debug\ValueRef.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\ValueRef\obj\Debug\ValueRef.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\ValueRef\obj\Debug\ValueRef.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\ValueRef\obj\Debug\ValueRef.pdb

@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula6_GetSet\bin\Debug\Aula6_GetSet.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula6_GetSet\bin\Debug\Aula6_GetSet.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula6_GetSet\bin\Debug\Aula6_GetSet.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula6_GetSet\obj\Debug\Aula6_GetSet.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula6_GetSet\obj\Debug\Aula6_GetSet.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula6_GetSet\obj\Debug\Aula6_GetSet.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula6_GetSet\obj\Debug\Aula6_GetSet.csprojAssemblyReference.cache

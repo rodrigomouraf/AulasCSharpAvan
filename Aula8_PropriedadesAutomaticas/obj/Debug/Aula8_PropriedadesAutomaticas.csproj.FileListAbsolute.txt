@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula8_PropriedadesAutomaticas\bin\Debug\Aula8_PropriedadesAutomaticas.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula8_PropriedadesAutomaticas\bin\Debug\Aula8_PropriedadesAutomaticas.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula8_PropriedadesAutomaticas\bin\Debug\Aula8_PropriedadesAutomaticas.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula8_PropriedadesAutomaticas\obj\Debug\Aula8_PropriedadesAutomaticas.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula8_PropriedadesAutomaticas\obj\Debug\Aula8_PropriedadesAutomaticas.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula8_PropriedadesAutomaticas\obj\Debug\Aula8_PropriedadesAutomaticas.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula8_PropriedadesAutomaticas\obj\Debug\Aula8_PropriedadesAutomaticas.pdb

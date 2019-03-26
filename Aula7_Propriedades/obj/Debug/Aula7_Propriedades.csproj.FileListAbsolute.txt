@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula7_Propriedades\bin\Debug\Aula7_Propriedades.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula7_Propriedades\bin\Debug\Aula7_Propriedades.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula7_Propriedades\bin\Debug\Aula7_Propriedades.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula7_Propriedades\obj\Debug\Aula7_Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula7_Propriedades\obj\Debug\Aula7_Propriedades.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula7_Propriedades\obj\Debug\Aula7_Propriedades.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula7_Propriedades\obj\Debug\Aula7_Propriedades.csprojAssemblyReference.cache

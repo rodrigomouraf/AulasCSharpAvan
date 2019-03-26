@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula11_MembrosEstaticos\bin\Debug\Aula11_MembrosEstaticos.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula11_MembrosEstaticos\bin\Debug\Aula11_MembrosEstaticos.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula11_MembrosEstaticos\bin\Debug\Aula11_MembrosEstaticos.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula11_MembrosEstaticos\obj\Debug\Aula11_MembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula11_MembrosEstaticos\obj\Debug\Aula11_MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula11_MembrosEstaticos\obj\Debug\Aula11_MembrosEstaticos.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula11_MembrosEstaticos\obj\Debug\Aula11_MembrosEstaticos.pdb

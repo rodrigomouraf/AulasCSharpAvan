@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula9_InicializadoresObjetos\bin\Debug\Aula9_InicializadoresObjetos.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula9_InicializadoresObjetos\bin\Debug\Aula9_InicializadoresObjetos.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula9_InicializadoresObjetos\bin\Debug\Aula9_InicializadoresObjetos.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula9_InicializadoresObjetos\obj\Debug\Aula9_InicializadoresObjetos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula9_InicializadoresObjetos\obj\Debug\Aula9_InicializadoresObjetos.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula9_InicializadoresObjetos\obj\Debug\Aula9_InicializadoresObjetos.pdb

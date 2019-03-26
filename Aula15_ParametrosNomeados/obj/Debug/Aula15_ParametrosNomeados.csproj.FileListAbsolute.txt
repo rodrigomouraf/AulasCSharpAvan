@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula15_ParametrosNomeados\bin\Debug\Aula15_ParametrosNomeados.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula15_ParametrosNomeados\bin\Debug\Aula15_ParametrosNomeados.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula15_ParametrosNomeados\bin\Debug\Aula15_ParametrosNomeados.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula15_ParametrosNomeados\obj\Debug\Aula15_ParametrosNomeados.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula15_ParametrosNomeados\obj\Debug\Aula15_ParametrosNomeados.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula15_ParametrosNomeados\obj\Debug\Aula15_ParametrosNomeados.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula15_ParametrosNomeados\obj\Debug\Aula15_ParametrosNomeados.pdb

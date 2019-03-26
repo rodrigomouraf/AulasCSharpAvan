@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula2_AlcMemoria\bin\Debug\Aula2_AlcMemoria.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula2_AlcMemoria\bin\Debug\Aula2_AlcMemoria.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula2_AlcMemoria\bin\Debug\Aula2_AlcMemoria.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula2_AlcMemoria\obj\Debug\Aula2_AlcMemoria.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula2_AlcMemoria\obj\Debug\Aula2_AlcMemoria.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula2_AlcMemoria\obj\Debug\Aula2_AlcMemoria.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula2_AlcMemoria\obj\Debug\Aula2_AlcMemoria.pdb

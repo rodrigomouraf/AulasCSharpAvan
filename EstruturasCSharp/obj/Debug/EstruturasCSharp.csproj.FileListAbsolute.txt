@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\EstruturasCSharp\bin\Debug\EstruturasCSharp.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\EstruturasCSharp\bin\Debug\EstruturasCSharp.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\EstruturasCSharp\bin\Debug\EstruturasCSharp.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\EstruturasCSharp\obj\Debug\EstruturasCSharp.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\EstruturasCSharp\obj\Debug\EstruturasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\EstruturasCSharp\obj\Debug\EstruturasCSharp.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\EstruturasCSharp\obj\Debug\EstruturasCSharp.pdb

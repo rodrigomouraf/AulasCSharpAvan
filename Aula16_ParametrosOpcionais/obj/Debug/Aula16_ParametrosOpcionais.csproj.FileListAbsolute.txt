@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula16_ParametrosOpcionais\bin\Debug\Aula16_ParametrosOpcionais.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula16_ParametrosOpcionais\bin\Debug\Aula16_ParametrosOpcionais.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula16_ParametrosOpcionais\bin\Debug\Aula16_ParametrosOpcionais.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula16_ParametrosOpcionais\obj\Debug\Aula16_ParametrosOpcionais.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula16_ParametrosOpcionais\obj\Debug\Aula16_ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula16_ParametrosOpcionais\obj\Debug\Aula16_ParametrosOpcionais.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula16_ParametrosOpcionais\obj\Debug\Aula16_ParametrosOpcionais.pdb

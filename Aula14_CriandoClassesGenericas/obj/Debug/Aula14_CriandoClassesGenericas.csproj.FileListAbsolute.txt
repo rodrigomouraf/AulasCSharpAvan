@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula14_CriandoClassesGenericas\bin\Debug\Aula14_CriandoClassesGenericas.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula14_CriandoClassesGenericas\bin\Debug\Aula14_CriandoClassesGenericas.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula14_CriandoClassesGenericas\bin\Debug\Aula14_CriandoClassesGenericas.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula14_CriandoClassesGenericas\obj\Debug\Aula14_CriandoClassesGenericas.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula14_CriandoClassesGenericas\obj\Debug\Aula14_CriandoClassesGenericas.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula14_CriandoClassesGenericas\obj\Debug\Aula14_CriandoClassesGenericas.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula14_CriandoClassesGenericas\obj\Debug\Aula14_CriandoClassesGenericas.pdb

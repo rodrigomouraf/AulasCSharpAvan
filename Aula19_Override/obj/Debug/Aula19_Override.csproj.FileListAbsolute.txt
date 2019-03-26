@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula19_Override\obj\Debug\Aula19_Override.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula19_Override\obj\Debug\Aula19_Override.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula19_Override\bin\Debug\Aula19_Override.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula19_Override\bin\Debug\Aula19_Override.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula19_Override\bin\Debug\Aula19_Override.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula19_Override\obj\Debug\Aula19_Override.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula19_Override\obj\Debug\Aula19_Override.pdb

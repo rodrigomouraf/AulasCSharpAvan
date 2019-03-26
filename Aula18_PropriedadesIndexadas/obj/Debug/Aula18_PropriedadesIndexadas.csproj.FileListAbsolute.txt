@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula18_PropriedadesIndexadas\bin\Debug\Aula18_PropriedadesIndexadas.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula18_PropriedadesIndexadas\bin\Debug\Aula18_PropriedadesIndexadas.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula18_PropriedadesIndexadas\bin\Debug\Aula18_PropriedadesIndexadas.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula18_PropriedadesIndexadas\obj\Debug\Aula18_PropriedadesIndexadas.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula18_PropriedadesIndexadas\obj\Debug\Aula18_PropriedadesIndexadas.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula18_PropriedadesIndexadas\obj\Debug\Aula18_PropriedadesIndexadas.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula18_PropriedadesIndexadas\obj\Debug\Aula18_PropriedadesIndexadas.pdb

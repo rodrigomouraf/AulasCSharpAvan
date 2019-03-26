@@ -1,0 +1,7 @@
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula12_ClassesMetodosExtensao\bin\Debug\Aula12_ClassesMetodosExtensao.exe.config
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula12_ClassesMetodosExtensao\bin\Debug\Aula12_ClassesMetodosExtensao.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula12_ClassesMetodosExtensao\bin\Debug\Aula12_ClassesMetodosExtensao.pdb
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula12_ClassesMetodosExtensao\obj\Debug\Aula12_ClassesMetodosExtensao.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula12_ClassesMetodosExtensao\obj\Debug\Aula12_ClassesMetodosExtensao.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula12_ClassesMetodosExtensao\obj\Debug\Aula12_ClassesMetodosExtensao.exe
+C:\Users\rodri\source\repos\CursoC(sharp)DevAvancado\Aula12_ClassesMetodosExtensao\obj\Debug\Aula12_ClassesMetodosExtensao.pdb
